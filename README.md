@@ -9,6 +9,8 @@ Slides and lab material can be found in [Moodle](https://moodle.jku.at/jku/cours
 * Marc Streit (@mstreit)
 * Klaus Eckelt (@keckelt)
 * Patrick Adelberger (@PatrickAdelberger)
+* Günter Wallner
+* Indrajit Kurmi
 
 ## Launch
 
